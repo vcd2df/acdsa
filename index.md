@@ -208,7 +208,7 @@ def val_canonical(val, size=32):
     return a and b
 ```
 
-[^1]: (doi:10.1109/HOST45689.2020.9300291)[https://doi.org/10.1109/HOST45689.2020.9300291]
+[^1]: [doi:10.1109/HOST45689.2020.9300291](https://doi.org/10.1109/HOST45689.2020.9300291)
 
 ## Check Rows
 
