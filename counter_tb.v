@@ -5,7 +5,7 @@ module test;
      $dumpfile("test.vcd");
      $dumpvars(0,test);
      # 5 rst = 1;
-     # 5 $stop;
+     # 5 $finish;
   end
 
   reg clk = 0;
